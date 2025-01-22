@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Get Assessment ID";
+}
+
+<h1>Enter Assessment ID</h1>
+
+<form asp-action="RedirectToAssessmentDetails" method="post">
+    <div class="form-group">
+        <label for="assId">Assessment ID</label>
+        <input type="number" id="assId" name="assId" class="form-control" placeholder="Enter Assessment ID" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

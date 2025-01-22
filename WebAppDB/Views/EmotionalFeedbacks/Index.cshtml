@@ -1,0 +1,91 @@
+﻿@model IEnumerable<WebAppDB.Models.LearningActivity>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Emotional Feedback</h1>
+<br />
+<h3>Trending Activity</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivityId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModuleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivityType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstructionDetails)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxPoints)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActivityId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Module.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActivityType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.InstructionDetails)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxPoints)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<h3>Emotional feedback</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                First Name
+            </th>
+            <th>
+                Emotional state
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @foreach (var i in item.EmotionalFeedbacks)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => i.Learner.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => i.EmotionalState)
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

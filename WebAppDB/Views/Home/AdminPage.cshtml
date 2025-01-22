@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Admin Page";
+}
+
+<!-- Top Right Navigation Button -->
+<div class="position-absolute top-0 end-0 p-3">
+    <button onclick="window.location.href='https://localhost:7068/Home/AdminPage';" class="btn btn-outline-primary">
+        Go to Admin Page
+    </button>
+</div>
+
+<!-- Main Content Container -->
+<div class="container mt-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-4">Admin Page</h1>
+    </div>
+
+    <!-- Display Error Message if Exists -->
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger text-center" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    <!-- Admin Actions Section -->
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Edit Account Data</h5>
+                    <p class="card-text">Update your personal account information easily.</p>
+                    <a asp-action="RedirectToUserDetails" class="btn btn-primary">Edit Account Data</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Learners Profiles</h5>
+                    <p class="card-text">Manage and view learners' personalization profiles.</p>
+                    <button onclick="window.location.href='https://localhost:7068/PersonalizationProfiles/';" class="btn btn-primary">
+                        Learners Personalization Profiles
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">View Accounts</h5>
+                    <p class="card-text">See all user accounts and details in the system.</p>
+                    <button onclick="window.location.href='https://localhost:7068/Users/';" class="btn btn-primary">
+                        View Accounts
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Create Account</h5>
+                    <p class="card-text">Add a new user account to the system.</p>
+                    <button onclick="window.location.href='https://localhost:7068/Users/Create';" class="btn btn-primary">
+                        Create Account
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Create Discussion Forum</h5>
+                    <p class="card-text">Start a new forum for discussions.</p>
+                    <button onclick="window.location.href='https://localhost:7068/DiscussionForums/Create';" class="btn btn-primary">
+                        Create New Forum
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Delete Quests</h5>
+                    <p class="card-text">Delete quests based on specified criteria.</p>
+                    <button onclick="window.location.href='https://localhost:7068/Quests/ViewDelete';" class="btn btn-danger">
+                        Delete Quests
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Include Bootstrap CSS and JS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>

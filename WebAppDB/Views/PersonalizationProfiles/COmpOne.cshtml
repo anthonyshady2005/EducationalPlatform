@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Learner Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Options</h1>
+
+     @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+    <h1>Edit your User info</h1>
+    <label for="username">Enter Username:</label>
+    <input type="text" id="username" placeholder="Enter username" />
+    <button onclick="redirectToEdit()">Go to Edit</button>
+    <script>
+        function redirectToEdit() {
+            const username = document.getElementById("username").value.trim();
+            if (username) {
+                // Redirect to the desired URL with the username
+                window.location.href = `https://localhost:7068/Users/Edit/${encodeURIComponent(username)}`;
+            } else {
+                alert("Please enter a username!");
+            }
+        }
+    </script>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Update Profile</title>
+    </head>
+    <body>
+        <h1>Update Personalization Profile</h1>
+        <form id="updateProfileForm">
+            <label for="learnerID">Learner ID:</label>
+            <input type="number" id="learnerID" name="learnerID" required><br><br>
+
+            <label for="profileID">Profile ID:</label>
+            <input type="number" id="profileID" name="profileID" required><br><br>
+
+            <label for="preferredContentType">Preferred Content Type:</label>
+            <input type="text" id="preferredContentType" name="preferredContentType" required><br><br>
+
+            <label for="emotionalState">Emotional State:</label>
+            <input type="text" id="emotionalState" name="emotionalState" required><br><br>
+
+            <label for="personalityType">Personality Type:</label>
+            <input type="text" id="personalityType" name="personalityType" required><br><br>
+
+            <button type="button" onclick="submitForm()">Update Profile</button>
+        </form>
+
+        <script>
+            async function submitForm() {
+                const learnerID = document.getElementById('learnerID').value;
+                const profileID = document.getElementById('profileID').value;
+                const preferredContentType = document.getElementById('preferredContentType').value;
+                const emotionalState = document.getElementById('emotionalState').value;
+                const personalityType = document.getElementById('personalityType').value;
+
+                const data = {
+                    learnerID: parseInt(learnerID),
+                    profileID: parseInt(profileID),
+                    preferredContentType,
+                    emotionalState,
+                    personalityType
+                };
+
+                try {
+                    const response = await fetch('https://localhost:7068/api/Profiles/UpdateProfile', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(data)
+                    });
+
+                    if (response.ok) {
+                        alert('Profile updated successfully!');
+                    } else {
+                        const error = await response.text();
+                        alert(`Error: ${error}`);
+                    }
+                } catch (error) {
+                    console.error('Error:', error);
+                    alert('An error occurred while updating the profile.');
+                }
+            }
+        </script>
+    </body>
+   
+
+   
+</div>

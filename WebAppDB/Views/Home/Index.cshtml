@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Centered Login Card -->
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg" style="width: 400px;">
+        <div class="card-body text-center">
+            <!-- Title -->
+            <h1 class="display-5 mb-4 text-primary">Login</h1>
+
+            <!-- Display Error Message -->
+            @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+            {
+                <div class="alert alert-danger" role="alert">
+                    @ViewBag.ErrorMessage
+                </div>
+            }
+
+            <!-- Login Form -->
+            <form method="post" asp-action="Login">
+                <!-- Username Input -->
+                <div class="form-floating mb-3">
+                    <input type="text" name="username" class="form-control" id="username" placeholder="Enter Username" required>
+                    <label for="username">Username</label>
+                </div>
+
+                <!-- Password Input -->
+                <div class="form-floating mb-3">
+                    <input type="password" name="password" class="form-control" id="password" placeholder="Enter Password" required>
+                    <label for="password">Password</label>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary w-100 mt-3">Login</button>
+            </form>
+
+            <!-- Create Account Button -->
+            <div class="mt-4">
+                <p class="mb-2">Don't have an account?</p>
+                <button onclick="window.location.href='https://localhost:7068/Users/Create';" class="btn btn-outline-secondary w-100">
+                    Create Account
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap CSS and JS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>

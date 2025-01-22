@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebAppDB.Models.Module>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form method="post" asp-action="Index">
+    <label for="course">Course ID</label>
+    <input type="number" id="course" name="course" required>
+    <button type="submit">Filter</button>
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Difficulty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContentUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Difficulty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContentUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+

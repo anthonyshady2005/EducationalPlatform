@@ -1,0 +1,16 @@
+﻿@model IEnumerable<WebAppDB.Models.Collaborative>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Edit</h1>
+
+<form method="post" asp-action="EditDL">
+    <label for="QuestID">QuestID</label>
+    <input type="number" id="QuestID" name="QuestID" required>
+
+    <label for="deadline">Deadline</label>
+    <input type="datetime-local" id="deadline" name="deadline" required>
+
+    <button type="submit">Get Score</button>
+</form>

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<WebAppDB.Models.Assessment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+    <h1>Index</h1>
+<form method="post" asp-action="AssessmentAnalysis">
+        <label for="learner">Learner ID</label>
+        <input type="number" id="learner" name="learner" required>
+
+        <button type="submit">Get Score</button>
+    </form>
+    <h1>Index</h1>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TotalMarks)
+                </th>
+               
+                <th>
+                      @Html.DisplayNameFor(model => model.Weightage)
+                </th>
+                
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <th>
+                    @Html.DisplayFor(modelItem => item.TotalMarks)
+                </th>
+
+                <th>
+                    @Html.DisplayFor(modelItem => item.Weightage)
+                </th>
+                    <td>
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

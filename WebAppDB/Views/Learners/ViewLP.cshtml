@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebAppDB.Models.LearningPath>
+
+@{
+    ViewData["Title"] = "Current Path";
+}
+
+<h1>Current Path</h1>
+
+<form asp-action="CurrentPath" method="get">
+    <div class="form-group">
+        <label for="learnerId">Enter Learner ID:</label>
+        <input type="number" id="learnerId" name="learnerId" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h2>Results</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Path ID</th>
+                <th>Completion Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.PathId</td>
+                    <td>@item.CompletionStatus</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (Model != null)
+{
+    <p>No results found for the given Learner ID.</p>
+}

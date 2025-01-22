@@ -1,0 +1,22 @@
+﻿@model WebAppDB.Models.Collaborative
+
+<h2>Update Deadline</h2>
+
+<form method="post" asp-action="UpdateDeadline">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    
+    <div class="form-group">
+        <label asp-for="QuestId"></label>
+        <input asp-for="QuestId" class="form-control" type="number"/>
+        <span asp-validation-for="QuestId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Deadline"></label>
+        <input asp-for="Deadline" class="form-control" type="date" />
+        <span asp-validation-for="Deadline" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+

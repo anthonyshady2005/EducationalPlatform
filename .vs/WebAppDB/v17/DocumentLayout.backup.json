@@ -1,0 +1,1098 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\learnerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\learnerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\leaderboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\leaderboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\leaderboards\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\leaderboards\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\leaderboards\\showranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\leaderboards\\showranking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\emotionalfeedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\emotionalfeedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\emotionalfeedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\emotionalfeedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\emotionalfeedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\emotionalfeedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\AssessmentAnalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\takenassessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\takenassessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\takenassessments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\takenassessments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\courseenrollments\\checkprerequisites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\courseenrollments\\checkprerequisites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\courseenrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\courseenrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\instructorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\instructorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\courses\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\courses\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\discussionforumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\discussionforumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\redirecttoae.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\redirecttoae.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\achievements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\achievements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\collaboratives\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\collaboratives\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\collaborativescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\collaborativescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\questscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\questscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\quests\\viewdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\quests\\viewdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\quests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\quests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\learningactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\learningactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\learners\\viewlp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\learners\\viewlp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\models\\learningpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\models\\learningpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.PersonalizationProfiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Learner.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\personalizationprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\personalizationprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\quests\\viewprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\quests\\viewprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\learninggoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\learninggoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\controllers\\learningpathscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\controllers\\learningpathscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\models\\databasefinalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\models\\databasefinalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\personalizationprofiles\\compone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\personalizationprofiles\\compone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\models\\modulecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\models\\modulecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\personalizationprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\personalizationprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\personalizationprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\personalizationprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\DatabaseFinal\\DatabaseFinal\\Procedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|c:\\users\\pc\\downloads\\webappdb (2)\\webappdb\\webappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23C51926-AFEB-4E45-BBEE-09A5855A190F}|WebAppDB\\WebAppDB.csproj|solutionrelative:webappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\EmotionalFeedbacks\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\EmotionalFeedbacks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\EmotionalFeedbacks\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\EmotionalFeedbacks\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T21:28:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaderboardsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LeaderboardsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\LeaderboardsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LeaderboardsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\LeaderboardsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:01:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmotionalFeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\EmotionalFeedbacksController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\EmotionalFeedbacksController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\EmotionalFeedbacksController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\EmotionalFeedbacksController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:26:34.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\TakenAssessments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\TakenAssessments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:41:01.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnerPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\LearnerPage.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\LearnerPage.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\LearnerPage.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\LearnerPage.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T16:25:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\EmotionalFeedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\EmotionalFeedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\EmotionalFeedbacks\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\EmotionalFeedbacks\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T21:29:23.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowRanking.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Leaderboards\\ShowRanking.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Leaderboards\\ShowRanking.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Leaderboards\\ShowRanking.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Leaderboards\\ShowRanking.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T21:30:14.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Leaderboards\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Leaderboards\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Leaderboards\\Edit.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Leaderboards\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T21:31:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssessmentAnalysis.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\AssessmentAnalysis.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Dell\\source\\repos\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\AssessmentAnalysis.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\AssessmentAnalysis.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\Dell\\source\\repos\\WebAppDB\\WebAppDB\\Views\\TakenAssessments\\AssessmentAnalysis.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:40:40.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\ModulesController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\ModulesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\ModulesController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\ModulesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:09:56.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TakenAssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\TakenAssessmentsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\TakenAssessmentsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\TakenAssessmentsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\TakenAssessmentsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:41:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckPrerequisites.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\CourseEnrollments\\CheckPrerequisites.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\CourseEnrollments\\CheckPrerequisites.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\CourseEnrollments\\CheckPrerequisites.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\CourseEnrollments\\CheckPrerequisites.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:08:31.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T16:16:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructorPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\InstructorPage.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\InstructorPage.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\InstructorPage.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\InstructorPage.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T16:25:27.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseEnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CourseEnrollmentsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\CourseEnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CourseEnrollmentsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\CourseEnrollmentsController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:32:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Courses\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Index2.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Courses\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:03:20.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiscussionForumsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\DiscussionForumsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\DiscussionForumsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\DiscussionForumsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\DiscussionForumsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:58:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:50:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:34:20.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T19:32:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Learners\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\Edit.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Learners\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:42:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:21:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RedirectToAE.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\RedirectToAE.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\RedirectToAE.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\RedirectToAE.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\RedirectToAE.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:27:45.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:59:08.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Home\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Home\\AdminPage.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Home\\AdminPage.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:33:01.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CollaborativesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CollaborativesController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\CollaborativesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\CollaborativesController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\CollaborativesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:09:10.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Collaboratives\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Collaboratives\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Collaboratives\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Collaboratives\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:11:36.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Achievements\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Achievements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Achievements\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Achievements\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T21:16:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AchievementsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\AchievementsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\AchievementsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\AchievementsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\AchievementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:15:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\AssessmentsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\AssessmentsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\AssessmentsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\AssessmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:56:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\QuestsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\QuestsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\QuestsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\QuestsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:12:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Quests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\Details.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Quests\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:30:01.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ViewDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\ViewDelete.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Quests\\ViewDelete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\ViewDelete.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Quests\\ViewDelete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:07:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T14:47:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\LearnersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearnersController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\LearnersController.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAQwEwBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:27:49.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LearningActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningActivitiesController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\LearningActivitiesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningActivitiesController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\LearningActivitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:37:00.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Learners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Learners\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:40:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ViewLP.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\ViewLP.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Learners\\ViewLP.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Learners\\ViewLP.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Learners\\ViewLP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:33:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LearningPath.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\LearningPath.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Models\\LearningPath.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\LearningPath.cs",
+              "RelativeToolTip": "WebAppDB\\Models\\LearningPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:58:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAiwLMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:32:12.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.PersonalizationProfiles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.PersonalizationProfiles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.PersonalizationProfiles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T14:51:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "dbo.Learner.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Learner.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Learner.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T14:40:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PersonalizationProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\PersonalizationProfilesController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\PersonalizationProfilesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\PersonalizationProfilesController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\PersonalizationProfilesController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwLEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:59:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DatabaseFinal/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T11:30:53.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ViewProgress.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\ViewProgress.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Quests\\ViewProgress.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Quests\\ViewProgress.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Quests\\ViewProgress.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T13:42:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:38:03.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:28:08.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:34:01.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:39:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:26:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:51:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T19:40:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:11:40.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LearningGoalsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningGoalsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\LearningGoalsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningGoalsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\LearningGoalsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:07:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LearningPathsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningPathsController.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Controllers\\LearningPathsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Controllers\\LearningPathsController.cs",
+              "RelativeToolTip": "WebAppDB\\Controllers\\LearningPathsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:03:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DatabaseFinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\DatabaseFinalContext.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Models\\DatabaseFinalContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\DatabaseFinalContext.cs",
+              "RelativeToolTip": "WebAppDB\\Models\\DatabaseFinalContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAbwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:13:49.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Program.cs",
+              "RelativeToolTip": "WebAppDB\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:14:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\Learner.cs",
+              "RelativeToolTip": "WebAppDB\\Models\\Learner.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:35:57.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "COmpOne.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\COmpOne.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\PersonalizationProfiles\\COmpOne.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\COmpOne.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\PersonalizationProfiles\\COmpOne.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:30:21.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ModuleContent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\ModuleContent.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Models\\ModuleContent.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\ModuleContent.cs",
+              "RelativeToolTip": "WebAppDB\\Models\\ModuleContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:42:12.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\PersonalizationProfiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\Index.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\PersonalizationProfiles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T09:21:42.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\PersonalizationProfiles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\PersonalizationProfiles\\Delete.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\PersonalizationProfiles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T16:13:57.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Models\\User.cs",
+              "RelativeToolTip": "WebAppDB\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:47:55.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Procedures.sql",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DatabaseFinal\\DatabaseFinal\\Procedures.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Dell\\source\\repos\\DatabaseFinal\\DatabaseFinal\\Procedures.sql",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DatabaseFinal\\DatabaseFinal\\Procedures.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\Dell\\source\\repos\\DatabaseFinal\\DatabaseFinal\\Procedures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-15T09:38:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppDB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppDB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:11:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebAppDB\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Services\\UserService.cs",
+              "RelativeToolTip": "WebAppDB\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:34:54.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAppDB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAppDB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T19:21:54.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\WebAppDB (2)\\WebAppDB\\WebAppDB\\appsettings.json",
+              "RelativeToolTip": "WebAppDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T19:11:51.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Instructor Page";
+}
+<div style="position: absolute; top: 10px; right: 10px;">
+    <button onclick="window.location.href='https://localhost:7068/Home/InstructorPage';" class="btn btn-primary">
+        Go to Instructor Page
+    </button>
+</div>
+<div class="text-center">
+    <h1 class="display-4">Instructor Page</h1>
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+   
+    <button onclick="window.location.href='https://localhost:7068/instructors/edit';" class="btn btn-primary mt-4">
+          Edit my personal data   
+    </button>
+    <a asp-action="RedirectToUserDetails" class="btn btn-primary mt-4">
+        Edit my account data
+    </a>
+
+    <a asp-action="RedirectToCreateQuest" class="btn btn-primary mt-4">
+        Create a new Quest
+    </a>
+    <button onclick="window.location.href='https://localhost:7068/PersonalizationProfiles/';" class="btn btn-primary mt-4">
+        Learners Personalization Profiles
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Quests/ViewDelete';" class="btn btn-primary mt-4">
+        Delete Quest Based on Criteria
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Assessments/Create';" class="btn btn-primary mt-4">
+        Add new assessment
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/LearningActivities/Create';" class="btn btn-primary mt-4">
+        Create Learning Activity
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/LearningPaths/Create';" class="btn btn-primary mt-4">
+        Create a learning path
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Users/';" class="btn btn-primary mt-4">
+        View accounts
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Users/Create';" class="btn btn-primary mt-4">
+        Create acount
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/DiscussionForums/Create';" class="btn btn-primary mt-4">
+        Create new discssion forum
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Quests/ViewDelete/';" class="btn btn-primary mt-4">
+        Learners Personalization Profiles
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Notifications/Create';" class="btn btn-primary mt-4">
+        Send Notification
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Achievements/Create';" class="btn btn-primary mt-4">
+        Add Achievment to learner
+    </button>
+
+
+
+
+
+
+    <button onclick="window.location.href='https://localhost:7068/LearningActivities/Create';" class="btn btn-primary mt-4">
+        Add new activity
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Modules';" class="btn btn-primary mt-4">
+        View modules
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Courses/index2';" class="btn btn-primary mt-4">
+        View taken Courses
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/courseenrollments/CheckPrerequisites';" class="btn btn-primary mt-4">
+        Check Prerequisites
+    </button>
+
+    <button onclick="window.location.href='https://localhost:7068/Assessments/Index2';" class="btn btn-primary mt-4">
+        View highest scores of assessments
+    </button>
+
+
+    <button onclick="window.location.href='https://localhost:7068/LearnerDiscussions/Create';" class="btn btn-primary mt-4">
+        Create new post in Forum
+    </button>
+
+    <button onclick="window.location.href='https://localhost:7068/Courses/Index3';" class="btn btn-primary mt-4">
+        Delete Course if No Learner in it
+    </button>
+
+
+    <button onclick="window.location.href='https://localhost:7068/collaboratives/edits';" class="btn btn-primary mt-4">
+        Update Deadline
+    </button>
+    <button onclick="window.location.href='https://localhost:7068/Assessments/listAssessments';" class="btn btn-primary mt-4">
+        View Assessment list for Learner
+    </button>
+</div>

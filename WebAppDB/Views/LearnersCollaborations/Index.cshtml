@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebAppDB.Models.LearnersCollaboration>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form method="post" asp-action="Index">
+    <label for="learner">Learner ID</label>
+    <input type="number" id="learner" name="learner" required>
+    <button type="submit">Filter quests</button>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Completion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Learner)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quest)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Completion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LearnerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuestId)
+            </td>
+            <td>
+              
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,143 @@
+﻿@{
+    ViewData["Title"] = "Learner Page";
+}
+
+<!-- Top Right Navigation Button -->
+<div class="position-absolute top-0 end-0 p-3">
+    <button onclick="window.location.href='https://localhost:7068/Home/LearnerPage';" class="btn btn-outline-primary">
+        Go to Learner Page
+    </button>
+</div>
+
+<!-- Main Page Container -->
+<div class="container mt-5">
+    <!-- Page Title -->
+    <div class="text-center mb-4">
+        <h1 class="display-5 text-primary">Learner Page</h1>
+        <p class="lead text-secondary">Manage your account, courses, assessments, and learning progress.</p>
+    </div>
+
+    <!-- Buttons Section -->
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <!-- Personal Data -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Personal Data</h5>
+                    <a asp-action="RedirectToEditUserDetails" class="btn btn-primary mb-2 w-100">Edit Personal Data</a>
+                    <a asp-action="RedirectToUserDetails" class="btn btn-primary mb-2 w-100">Edit Account Data</a>
+                    <a asp-action="RedirectToDeleteUser" class="btn btn-danger mb-2 w-100">Delete My Account</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Learning Goals & Progress -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Learning Goals & Progress</h5>
+                    <button onclick="window.location.href='https://localhost:7068/LearningGoals/Create';" class="btn btn-primary mb-2 w-100">
+                        Create New Learning Goal
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/LearningPaths1';" class="btn btn-primary mb-2 w-100">
+                        Monitor Learning Path Progress
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/learnersmasteries/index';" class="btn btn-primary mb-2 w-100">
+                        Track Quest and Achievement Progress
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Courses -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Courses</h5>
+                    <button onclick="window.location.href='https://localhost:7068/Courses';" class="btn btn-primary mb-2 w-100">
+                        View Enrolled Courses
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/Courses/index2';" class="btn btn-primary mb-2 w-100">
+                        View Taken Courses
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/CourseEnrollments/Create';" class="btn btn-success mb-2 w-100">
+                        Enroll in Course
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/Modules';" class="btn btn-primary mb-2 w-100">
+                        View Modules
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Assessments -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Assessments</h5>
+                    <button onclick="window.location.href='https://localhost:7068/Assessments/AssessmentAnalysis';" class="btn btn-primary mb-2 w-100">
+                        View Assessment Analysis
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/Assessments/listAssessments';" class="btn btn-primary mb-2 w-100">
+                        View Assessment List
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/TakenAssessments';" class="btn btn-primary mb-2 w-100">
+                        View Taken Assessments
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/Home/RedirectToAE';" class="btn btn-primary mb-2 w-100">
+                        View Certain Assessment
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quests & Collaborations -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Quests & Collaborations</h5>
+                    <button onclick="window.location.href='https://localhost:7068/LearnersCollaborations/participate';" class="btn btn-primary mb-2 w-100">
+                        Participate in Quest
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/LearnersCollaborations';" class="btn btn-primary mb-2 w-100">
+                        Check Active Quest Participants
+                    </button>
+                    <a asp-action="ViewProgress" asp-controller="Quests" asp-route-learnerId="1" class="btn btn-success mb-2 w-100">
+                        View My Progress
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tools & Discussions -->
+        <div class="col">
+            <div class="card shadow-sm h-100 text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Tools & Discussions</h5>
+                    <button onclick="window.location.href='https://localhost:7068/PersonalizationProfiles/';" class="btn btn-primary mb-2 w-100">
+                        Learners Personalization Profiles
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/LearnerDiscussions/Create';" class="btn btn-primary mb-2 w-100">
+                        Create New Forum Post
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/courseenrollments/CheckPrerequisites';" class="btn btn-primary mb-2 w-100">
+                        Check Prerequisites
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/EmotionalFeedBack/';" class="btn btn-primary mt-4">
+                        Emotional Feedback
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/EmotionalFeedBack/Create';" class="btn btn-primary mt-4">
+                        Share Emotion
+                    </button>
+                    <button onclick="window.location.href='https://localhost:7068/Leaderboards/';" class="btn btn-primary mt-4">
+                        Leaderboards
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>

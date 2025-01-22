@@ -1,0 +1,17 @@
+﻿@model IEnumerable<WebAppDB.Models.LearnersCollaboration>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Edit</h1>
+
+<form method="post" asp-action="EditDL">
+    <label for="LearnerID">LearnerID</label>
+    <input type="number" id="LearnerID" name="LearnerID" required>
+
+    <label for="QuestID">QuestID</label>
+    <input type="number" id="QuestID" name="QuestID" required>
+
+    <button type="submit">Get Score</button>
+</form>
